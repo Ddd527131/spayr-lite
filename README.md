@@ -39,7 +39,7 @@ Dans le fichier `backend/db.json` :
 
 **Identifiants de connexion :**
 - Email : `durand@example.com`
-- Mot de passe : `test4321`
+- Mot de passe : `test1234`
 
 ## Lancer l’application
 
