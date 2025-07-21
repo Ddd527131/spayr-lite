@@ -29,7 +29,7 @@ Dans le fichier `backend/db.json` :
     "users": {
         "Durand": {
             "email": "durand@example.com",
-            "password": "test4321",
+            "password": "test1234",
             "balance": 100.0
         }
     },
